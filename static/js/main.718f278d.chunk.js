@@ -1,0 +1,2 @@
+(this.webpackJsonptest=this.webpackJsonptest||[]).push([[0],{10:function(t,e,n){},4:function(t,e,n){"use strict";n.r(e);var s=n(2),c=(n(1),n(3)),r=n.n(c);n(10);r.a.render(Object(s.jsx)("h1",{children:"Hrrol React!"}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.718f278d.chunk.js.map
